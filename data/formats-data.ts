@@ -5696,9 +5696,81 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		isNonstandard: "Custom",
 		tier: "Illegal",
 	},
+	zetter: {
+		isNonstandard: "CAP",
+		tier: "CAP",
+	},
+	orcane: {
+		isNonstandard: "CAP",
+		tier: "CAP",
+	},
+	kragg: {
+		isNonstandard: "CAP",
+		tier: "CAP",
+	},
+	wrastor: {
+		isNonstandard: "CAP",
+		tier: "CAP",
+	},
+	forsburn: {
+		isNonstandard: "CAP",
+		tier: "CAP",
+	},
+	etalus: {
+		isNonstandard: "CAP",
+		tier: "CAP",
+	},
+	maypul: {
+		isNonstandard: "CAP",
+		tier: "CAP",
+	},
+	absa: {
+		isNonstandard: "CAP",
+		tier: "CAP",
+	},
+	clairen: {
+		isNonstandard: "CAP",
+		tier: "CAP",
+	},
+	ranno: {
+		isNonstandard: "CAP",
+		tier: "CAP",
+	},
+	sylvannos: {
+		isNonstandard: "CAP",
+		tier: "CAP",
+	},
+	elliana: {
+		isNonstandard: "CAP",
+		tier: "CAP",
+	},
+	ori: {
+		isNonstandard: "CAP",
+		tier: "CAP",
+	},
+	shovelknight: {
+		isNonstandard: "CAP",
+		tier: "CAP",
+	},
+	mollo: {
+		isNonstandard: "CAP",
+		tier: "CAP",
+	},
+	hodan: {
+		isNonstandard: "CAP",
+		tier: "CAP",
+	},
+	olympia: {
+		isNonstandard: "CAP",
+		tier: "CAP",
+	},
+	pomme: {
+		isNonstandard: "CAP",
+		tier: "CAP",
+	},
 	syclar: {
 		isNonstandard: "CAP",
-		tier: "CAP LC",
+		tier: "CAP",
 	},
 	syclant: {
 		isNonstandard: "CAP",

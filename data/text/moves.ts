@@ -3237,8 +3237,8 @@ export const MovesText: {[k: string]: MoveText} = {
 	},
 	iciclecrash: {
 		name: "Icicle Crash",
-		desc: "Has a 30% chance to make the target flinch.",
-		shortDesc: "30% chance to make the target flinch.",
+		desc: "Has a 30% chance to make the target flinch. Puts ice on stage.",
+		shortDesc: "30% chance to make the target flinch. Puts ice on stage.",
 	},
 	iciclespear: {
 		name: "Icicle Spear",

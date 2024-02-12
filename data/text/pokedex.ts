@@ -3548,6 +3548,60 @@ export const PokedexText: {[k: string]: PokedexText} = {
 	missingno: {
 		name: "MissingNo.",
 	},
+	zetterburn: {
+		name: "Zetterburn",
+	},
+	orcane: {
+		name: "Orcane",
+	},
+	kragg: {
+		name: "Kragg",
+	},
+	wrastor: {
+		name: "Wrastor",
+	},
+	forsburn: {
+		name: "Forsburn",
+	},
+	etalus: {
+		name: "Etalus",
+	},
+	maypul: {
+		name: "Maypul",
+	},
+	absa: {
+		name: "Absa",
+	},
+	clairen: {
+		name: "Clairen",
+	},
+	ranno: {
+		name: "Ranno",
+	},
+	sylvanos: {
+		name: "Sylvanos",
+	},
+	elliana: {
+		name: "Elliana",
+	},
+	ori: {
+		name: "Ori",
+	},
+	shovelknight: {
+		name: "Shovel Knight",
+	},
+	mollo: {
+		name: "Mollo",
+	},
+	hodan: {
+		name: "Hodan",
+	},
+	olympia: {
+		name: "Olympia",
+	},
+	pomme: {
+		name: "Pomme",
+	},
 	syclar: {
 		name: "Syclar",
 	},
