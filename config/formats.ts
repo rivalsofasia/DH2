@@ -746,7 +746,7 @@ export const Formats: FormatList = [
 		name: "[Gen 9] Rivals",
 		desc: `<b>[Gen 9] Rivals</b>: A meta where the only legal Pokemon are rivals characters.`,
 		threads: [
-			`&bullet; <a href="https://www.smogon.com/forums/threads/3717145/">Roulettemons 2 on Smogon Forums</a>`,
+			`&bullet; <a href="https://www.smogon.com/forums/threads/">Roulettemons 2 on Smogon Forums</a>`,
 		],
 		mod: 'rivals',
 		ruleset: ['Standard NatDex', 'OHKO Clause', 'Species Clause', 'Terastal Clause', 'Dynamax Clause', 'Sleep Clause Mod', 'Z-Move Clause', 'Data Mod', 'Mega Data Mod'],
